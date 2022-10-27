@@ -1,0 +1,2 @@
+# pokedex
+Prática em Python
